@@ -1,0 +1,4 @@
+If the CTF just give us like a random string like "Ft}L_hrA$e3G1_w{ha$tn"
+You can see this is probaby the flag but was randomised into different permutation 
+Just go the cyberchef and use "Rail Fence Cipher Decode" and keep increasing the Key until you get the answer
+And DA DAAAAA the flag is "FLAG{th1$_the_an$w3r}" after you increased the key level to 6
