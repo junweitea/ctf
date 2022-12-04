@@ -1,4 +1,4 @@
 First approach is to drag the image into the "https://manytools.org/hacker-tools/steganography-encode-text-into-image/"
 Second approach is to use "binwalk" command in linux to see is there any encoded data in the photo
 Third approach is to use "exiftool" command to have more detailed information of the photo
-Fourth approach is to string the photo and output in notepad++ to have potential hidden flags
+Fourth approach is to string the photo and output in notepad++ to have potential hidden flag
