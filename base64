@@ -1,0 +1,2 @@
+If happened to have base64 data, we can use "https://base64.guru/converter/decode/file" to convert the data to a file which then we can use to proceed to solve the flag
+We can use also cyberchef to decode base64 data to human-readable text
